@@ -1,2 +1,3 @@
 # AVR-programming
-a repository of my AVR projects
+A repository of my AVR projects
+I am coming to change somethings
